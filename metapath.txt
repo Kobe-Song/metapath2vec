@@ -1,0 +1,6 @@
+u1	a2	u2	a2	u1
+u1	a2	u2	a2	u2
+u2	a2	u1	a2	u2
+u2	a2	u1	a1	u1
+u3	a1	u3	a1	u3
+u3	a1	u3	a1	u1

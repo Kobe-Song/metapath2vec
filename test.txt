@@ -1,0 +1,5 @@
+user,account,weight
+u1,a1,10
+u2,a2,10
+u1,a2,10
+u3,a1,5
